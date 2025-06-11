@@ -2,4 +2,4 @@
 # React + TypeScript + Vite
 
 
-<img src="/gpt.png" />
+<img src="./public/gpt.png" />
